@@ -30,3 +30,6 @@ h2{color:var(--accent);margin-top:0}
 @media (max-width:600px){
   .nav{flex-direction:column}
 }
+.edu-item {
+  margin-bottom: 0.8rem;
+}
